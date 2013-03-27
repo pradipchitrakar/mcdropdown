@@ -13,3 +13,8 @@ mcdropdown features:
     Menu automatically scrolls into viewport when opened
 
 mcdropdown works with jQuery version upto 1.6.2 only. I made some changes to work with jquery 1.9. 
+
+Changes:
+- Replaced removed functions like curCSS(),andSelf()
+- Fixed bug for google chrome
+
